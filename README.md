@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrAffable
-- 👀 I’m interested in guitar, home brewing, and exercise.
-- 🌱 I’m currently learning CSS and real estate investment.
+- 👀 I’m interested in music theory, machine learning, and exercise science.
+- 🌱 I’m currently learning Python and Spanish.
 - 💞️ I’m looking to collaborate on iOS development
 - 📫 How to reach me: mikeguillot@gmail.com
 
